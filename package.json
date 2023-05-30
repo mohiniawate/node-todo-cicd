@@ -1,5 +1,6 @@
 {
   "name": "my-todolist",
+  "name": "my-todolists",
   "version": "0.1.0",
   "dependencies": {
     "body-parser": "^1.16.0",
